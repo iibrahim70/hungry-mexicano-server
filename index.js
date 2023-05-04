@@ -11,8 +11,15 @@ app.get('/', (req, res) => {
   res.send('Mexicano is running');
 }); 
 
-app.get('/recipes', (req, res) => {
+app.get('/recipe', (req, res) => {
   res.send(recipe)
+})
+
+app.get('/recipe/:id', (req, res) => {
+  const id = parseInt(req.params.id); 
+  console.log(id);
+  const selectedRecipe = recipe.find(n => n.id === id);
+  res.send(selectedRecipe);
 })
 
 app.listen(port, () => {
