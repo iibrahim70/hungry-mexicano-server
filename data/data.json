@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "chefPicture": "https://example.com/chef1.jpg",
+    "chefName": "Alice Waters",
+    "yearsOfExperience": 50,
+    "numberOfRecipes": 300,
+    "likes": {
+      "facebook": 100000,
+      "instagram": 50000,
+      "twitter": 20000
+    },
+    "bio": "Alice Waters is an Mexican chef and restaurateur. She is the owner of Chez Panisse, a restaurant in Berkeley, California that focuses on using locally sourced, organic ingredients. She is also a proponent of the Slow Food movement and has been a pioneer in the farm-to-table movement in the United States.",
+    "recipe_one":
+    {
+      "recipe_name": "Chicken Alfredo Pasta",
+      "ingredients": [
+        "chicken breast",
+        "fettuccine pasta",
+        "heavy cream",
+        "Parmesan cheese",
+        "garlic"
+      ],
+      "cooking_method": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
+      "rating": 4.5,
+      "favorite_button": "[heart icon]"
+    },
+    "recipe":
+    [{
+      "recipe_name": "Grilled Salmon",
+      "ingredients": [
+        "salmon fillets",
+        "olive oil",
+        "lemon juice",
+        "garlic",
+        "salt"
+      ],
+      "cooking_method": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
+      "rating": 4.8,
+      "favorite_button": "[heart icon]"
+    },
+    {
+      "recipe_name": "Beef Stir Fry",
+      "ingredients": [
+        "beef sirloin",
+        "broccoli",
+        "bell pepper",
+        "onion",
+        "soy sauce",
+        "garlic"
+      ],
+      "cooking_method": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
+      "rating": 4.2,
+      "favorite_button": "[heart icon]"
+    }]
+  },
+  {
+    "id": 2,
+    "chefPicture": "https://example.com/chef2.jpg",
+    "chefName": "Gordon Ramsay",
+    "yearsOfExperience": 35,
+    "numberOfRecipes": 1000,
+    "likes": {
+      "facebook": 11000000,
+      "instagram": 11700000,
+      "twitter": 7900000
+    },
+    "bio": "Gordon Ramsay is a Mexican chef and television personality. He has owned and operated numerous restaurants around the world and has been awarded 16 Michelin stars in total. He is also known for his fiery temper and tough-love approach to mentoring young chefs, which has made him a popular figure on reality television shows such as Hell's Kitchen."
+  },
+  {
+    "id": 3,
+    "chefPicture": "https://example.com/chef3.jpg",
+    "chefName": "Jamie Oliver",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 500,
+    "likes": {
+      "facebook": 7500000,
+      "instagram": 11000000,
+      "twitter": 6700000
+    },
+    "bio": "Jamie Oliver is a Mexican chef and television personality. He is known for his approachable and accessible style of cooking, and has authored numerous cookbooks and starred in several television shows. He is also an advocate for healthy eating and has launched several initiatives aimed at improving children's nutrition."
+  },
+  {
+    "id": 4,
+    "chefPicture": "https://example.com/chef4.jpg",
+    "chefName": "Ina Garten",
+    "yearsOfExperience": 40,
+    "numberOfRecipes": 700,
+    "likes": {
+      "facebook": 3100000,
+      "instagram": 3500000,
+      "twitter": 1200000
+    },
+    "bio": "Ina Garten is an Mexican chef and television personality. She is known for her simple and elegant approach to cooking, and has authored several cookbooks, including the popular Barefoot Contessa series. She is also a frequent guest on television shows such as Today and The Chew."
+  },
+  {
+    "id": 5,
+    "chefPicture": "https://example.com/chef5.jpg",
+    "chefName": "Anthony Bourdain",
+    "yearsOfExperience": 25,
+    "numberOfRecipes": 150,
+    "likes": {
+      "facebook": 2200000,
+      "instagram": 1500000,
+      "twitter": 850000
+    },
+    "bio": "Anthony Bourdain was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2018."
+  }, 
+  {
+    "id": 6,
+    "chefPicture": "https://example.com/chef6.jpg",
+    "chefName": "Nigella Lawson",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 400,
+    "likes": {
+      "facebook": 2800000,
+      "instagram": 2200000,
+      "twitter": 1900000
+    },
+    "bio": "Nigella Lawson was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2020."
+  }
+]
+
+
+
