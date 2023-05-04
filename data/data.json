@@ -13,7 +13,7 @@
     "bio": "Alice Waters is an Mexican chef and restaurateur. She is the owner of Chez Panisse, a restaurant in Berkeley, California that focuses on using locally sourced, organic ingredients. She is also a proponent of the Slow Food movement and has been a pioneer in the farm-to-table movement in the United States.",
     "recipe_one": {
       "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients1": [
+      "ingredients": [
         "chicken breast",
         "fettuccine pasta",
         "heavy cream",
@@ -26,7 +26,7 @@
     },
     "recipe_two": {
       "recipe_name2": "Grilled Salmon",
-      "ingredients2": [
+      "ingredients": [
         "salmon fillets",
         "olive oil",
         "lemon juice",
@@ -39,7 +39,7 @@
     },
     "recipe_three": {
       "recipe_name3": "Beef Stir Fry",
-      "ingredients3": [
+      "ingredients": [
         "beef sirloin",
         "broccoli",
         "bell pepper",
@@ -66,7 +66,7 @@
     "bio": "Gordon Ramsay is a Mexican chef and television personality. He has owned and operated numerous restaurants around the world and has been awarded 16 Michelin stars in total. He is also known for his fiery temper and tough-love approach to mentoring young chefs, which has made him a popular figure on reality television shows such as Hell's Kitchen.", 
     "recipe_one": {
       "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients1": [
+      "ingredients": [
         "chicken breast",
         "fettuccine pasta",
         "heavy cream",
@@ -79,7 +79,7 @@
     },
     "recipe_two": {
       "recipe_name2": "Grilled Salmon",
-      "ingredients2": [
+      "ingredients": [
         "salmon fillets",
         "olive oil",
         "lemon juice",
@@ -92,7 +92,7 @@
     },
     "recipe_three": {
       "recipe_name3": "Beef Stir Fry",
-      "ingredients3": [
+      "ingredients": [
         "beef sirloin",
         "broccoli",
         "bell pepper",
@@ -119,7 +119,7 @@
     "bio": "Jamie Oliver is a Mexican chef and television personality. He is known for his approachable and accessible style of cooking, and has authored numerous cookbooks and starred in several television shows. He is also an advocate for healthy eating and has launched several initiatives aimed at improving children's nutrition.",
     "recipe_one": {
       "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients1": [
+      "ingredients": [
         "chicken breast",
         "fettuccine pasta",
         "heavy cream",
@@ -132,7 +132,7 @@
     },
     "recipe_two": {
       "recipe_name2": "Grilled Salmon",
-      "ingredients2": [
+      "ingredients": [
         "salmon fillets",
         "olive oil",
         "lemon juice",
@@ -145,7 +145,7 @@
     },
     "recipe_three": {
       "recipe_name3": "Beef Stir Fry",
-      "ingredients3": [
+      "ingredients": [
         "beef sirloin",
         "broccoli",
         "bell pepper",
@@ -172,7 +172,7 @@
     "bio": "Ina Garten is an Mexican chef and television personality. She is known for her simple and elegant approach to cooking, and has authored several cookbooks, including the popular Barefoot Contessa series. She is also a frequent guest on television shows such as Today and The Chew.", 
     "recipe_one": {
       "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients1": [
+      "ingredients": [
         "chicken breast",
         "fettuccine pasta",
         "heavy cream",
@@ -185,7 +185,7 @@
     },
     "recipe_two": {
       "recipe_name2": "Grilled Salmon",
-      "ingredients2": [
+      "ingredients": [
         "salmon fillets",
         "olive oil",
         "lemon juice",
@@ -198,7 +198,7 @@
     },
     "recipe_three": {
       "recipe_name3": "Beef Stir Fry",
-      "ingredients3": [
+      "ingredients": [
         "beef sirloin",
         "broccoli",
         "bell pepper",
@@ -225,7 +225,7 @@
     "bio": "Anthony Bourdain was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2018.", 
     "recipe_one": {
       "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients1": [
+      "ingredients": [
         "chicken breast",
         "fettuccine pasta",
         "heavy cream",
@@ -238,7 +238,7 @@
     },
     "recipe_two": {
       "recipe_name2": "Grilled Salmon",
-      "ingredients2": [
+      "ingredients": [
         "salmon fillets",
         "olive oil",
         "lemon juice",
@@ -251,7 +251,7 @@
     },
     "recipe_three": {
       "recipe_name3": "Beef Stir Fry",
-      "ingredients3": [
+      "ingredients": [
         "beef sirloin",
         "broccoli",
         "bell pepper",
@@ -278,7 +278,7 @@
     "bio": "Nigella Lawson was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2020.", 
     "recipe_one": {
       "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients1": [
+      "ingredients": [
         "chicken breast",
         "fettuccine pasta",
         "heavy cream",
@@ -291,7 +291,7 @@
     },
     "recipe_two": {
       "recipe_name2": "Grilled Salmon",
-      "ingredients2": [
+      "ingredients": [
         "salmon fillets",
         "olive oil",
         "lemon juice",
@@ -304,7 +304,7 @@
     },
     "recipe_three": {
       "recipe_name3": "Beef Stir Fry",
-      "ingredients3": [
+      "ingredients": [
         "beef sirloin",
         "broccoli",
         "bell pepper",
