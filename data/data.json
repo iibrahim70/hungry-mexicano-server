@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "chefPicture": "https://example.com/chef1.jpg",
+    "chefPicture": "https://media.istockphoto.com/id/1306172565/photo/happy-hispanic-mom-cooking-healthy-food-mature-woman-cutting-fresh-vegetables-in-her-kitchen.jpg?s=612x612&w=0&k=20&c=cB16nb_6SGZ-CtO9jbeiVdluOWXiMegxMfE-HMGhtPI=",
     "chefName": "Alice Waters",
     "yearsOfExperience": 50,
     "numberOfRecipes": 300,
@@ -11,37 +11,35 @@
       "twitter": 20000
     },
     "bio": "Alice Waters is an Mexican chef and restaurateur. She is the owner of Chez Panisse, a restaurant in Berkeley, California that focuses on using locally sourced, organic ingredients. She is also a proponent of the Slow Food movement and has been a pioneer in the farm-to-table movement in the United States.",
-    "recipe_one":
-    {
-      "recipe_name": "Chicken Alfredo Pasta",
-      "ingredients": [
+    "recipe_one": {
+      "recipe_name1": "Chicken Alfredo Pasta",
+      "ingredients1": [
         "chicken breast",
         "fettuccine pasta",
         "heavy cream",
         "Parmesan cheese",
         "garlic"
       ],
-      "cooking_method": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
-      "rating": 4.5,
-      "favorite_button": "[heart icon]"
+      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
+      "rating1": 4.5,
+      "favorite_button1": "[heart icon]"
     },
-    "recipe":
-    [{
-      "recipe_name": "Grilled Salmon",
-      "ingredients": [
+    "recipe_two": {
+      "recipe_name2": "Grilled Salmon",
+      "ingredients2": [
         "salmon fillets",
         "olive oil",
         "lemon juice",
         "garlic",
         "salt"
       ],
-      "cooking_method": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
-      "rating": 4.8,
-      "favorite_button": "[heart icon]"
+      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
+      "rating1": 4.8,
+      "favorite_button2": "[heart icon]"
     },
-    {
-      "recipe_name": "Beef Stir Fry",
-      "ingredients": [
+    "recipe_three": {
+      "recipe_name3": "Beef Stir Fry",
+      "ingredients3": [
         "beef sirloin",
         "broccoli",
         "bell pepper",
@@ -49,14 +47,14 @@
         "soy sauce",
         "garlic"
       ],
-      "cooking_method": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
-      "rating": 4.2,
-      "favorite_button": "[heart icon]"
-    }]
+      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
+      "rating3": 4.2,
+      "favorite_button3": "[heart icon]"
+    }
   },
   {
     "id": 2,
-    "chefPicture": "https://example.com/chef2.jpg",
+    "chefPicture": "https://media.istockphoto.com/id/511021902/photo/young-hispanic-female-kitchen-worker.jpg?s=612x612&w=0&k=20&c=7NRKzUHUP7aBkzGeW4b4biDlQ80aagHbVvubZ8c-tTk=",
     "chefName": "Gordon Ramsay",
     "yearsOfExperience": 35,
     "numberOfRecipes": 1000,
@@ -65,11 +63,51 @@
       "instagram": 11700000,
       "twitter": 7900000
     },
-    "bio": "Gordon Ramsay is a Mexican chef and television personality. He has owned and operated numerous restaurants around the world and has been awarded 16 Michelin stars in total. He is also known for his fiery temper and tough-love approach to mentoring young chefs, which has made him a popular figure on reality television shows such as Hell's Kitchen."
+    "bio": "Gordon Ramsay is a Mexican chef and television personality. He has owned and operated numerous restaurants around the world and has been awarded 16 Michelin stars in total. He is also known for his fiery temper and tough-love approach to mentoring young chefs, which has made him a popular figure on reality television shows such as Hell's Kitchen.", 
+    "recipe_one": {
+      "recipe_name1": "Chicken Alfredo Pasta",
+      "ingredients1": [
+        "chicken breast",
+        "fettuccine pasta",
+        "heavy cream",
+        "Parmesan cheese",
+        "garlic"
+      ],
+      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
+      "rating1": 4.5,
+      "favorite_button1": "[heart icon]"
+    },
+    "recipe_two": {
+      "recipe_name2": "Grilled Salmon",
+      "ingredients2": [
+        "salmon fillets",
+        "olive oil",
+        "lemon juice",
+        "garlic",
+        "salt"
+      ],
+      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
+      "rating1": 4.8,
+      "favorite_button2": "[heart icon]"
+    },
+    "recipe_three": {
+      "recipe_name3": "Beef Stir Fry",
+      "ingredients3": [
+        "beef sirloin",
+        "broccoli",
+        "bell pepper",
+        "onion",
+        "soy sauce",
+        "garlic"
+      ],
+      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
+      "rating3": 4.2,
+      "favorite_button3": "[heart icon]"
+    }
   },
   {
     "id": 3,
-    "chefPicture": "https://example.com/chef3.jpg",
+    "chefPicture": "https://media.istockphoto.com/id/168447898/photo/portrait-of-a-smiling-chef-inside-the-restaurant-kitchen.jpg?s=612x612&w=0&k=20&c=e5VDXu2AIevtTNTs1ZczQEjfJ9Kf14cqO3LiJBNv6bI=",
     "chefName": "Jamie Oliver",
     "yearsOfExperience": 25,
     "numberOfRecipes": 500,
@@ -78,11 +116,51 @@
       "instagram": 11000000,
       "twitter": 6700000
     },
-    "bio": "Jamie Oliver is a Mexican chef and television personality. He is known for his approachable and accessible style of cooking, and has authored numerous cookbooks and starred in several television shows. He is also an advocate for healthy eating and has launched several initiatives aimed at improving children's nutrition."
+    "bio": "Jamie Oliver is a Mexican chef and television personality. He is known for his approachable and accessible style of cooking, and has authored numerous cookbooks and starred in several television shows. He is also an advocate for healthy eating and has launched several initiatives aimed at improving children's nutrition.",
+    "recipe_one": {
+      "recipe_name1": "Chicken Alfredo Pasta",
+      "ingredients1": [
+        "chicken breast",
+        "fettuccine pasta",
+        "heavy cream",
+        "Parmesan cheese",
+        "garlic"
+      ],
+      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
+      "rating1": 4.5,
+      "favorite_button1": "[heart icon]"
+    },
+    "recipe_two": {
+      "recipe_name2": "Grilled Salmon",
+      "ingredients2": [
+        "salmon fillets",
+        "olive oil",
+        "lemon juice",
+        "garlic",
+        "salt"
+      ],
+      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
+      "rating1": 4.8,
+      "favorite_button2": "[heart icon]"
+    },
+    "recipe_three": {
+      "recipe_name3": "Beef Stir Fry",
+      "ingredients3": [
+        "beef sirloin",
+        "broccoli",
+        "bell pepper",
+        "onion",
+        "soy sauce",
+        "garlic"
+      ],
+      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
+      "rating3": 4.2,
+      "favorite_button3": "[heart icon]"
+    }
   },
   {
     "id": 4,
-    "chefPicture": "https://example.com/chef4.jpg",
+    "chefPicture": "https://media.istockphoto.com/id/871822958/photo/food-truck-owner-making-hamburgers.jpg?s=612x612&w=0&k=20&c=tO0obQH8q1DwdVOZUTmCGlISW8OK7LsEYJRGTk60Fv8=",
     "chefName": "Ina Garten",
     "yearsOfExperience": 40,
     "numberOfRecipes": 700,
@@ -91,11 +169,51 @@
       "instagram": 3500000,
       "twitter": 1200000
     },
-    "bio": "Ina Garten is an Mexican chef and television personality. She is known for her simple and elegant approach to cooking, and has authored several cookbooks, including the popular Barefoot Contessa series. She is also a frequent guest on television shows such as Today and The Chew."
+    "bio": "Ina Garten is an Mexican chef and television personality. She is known for her simple and elegant approach to cooking, and has authored several cookbooks, including the popular Barefoot Contessa series. She is also a frequent guest on television shows such as Today and The Chew.", 
+    "recipe_one": {
+      "recipe_name1": "Chicken Alfredo Pasta",
+      "ingredients1": [
+        "chicken breast",
+        "fettuccine pasta",
+        "heavy cream",
+        "Parmesan cheese",
+        "garlic"
+      ],
+      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
+      "rating1": 4.5,
+      "favorite_button1": "[heart icon]"
+    },
+    "recipe_two": {
+      "recipe_name2": "Grilled Salmon",
+      "ingredients2": [
+        "salmon fillets",
+        "olive oil",
+        "lemon juice",
+        "garlic",
+        "salt"
+      ],
+      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
+      "rating1": 4.8,
+      "favorite_button2": "[heart icon]"
+    },
+    "recipe_three": {
+      "recipe_name3": "Beef Stir Fry",
+      "ingredients3": [
+        "beef sirloin",
+        "broccoli",
+        "bell pepper",
+        "onion",
+        "soy sauce",
+        "garlic"
+      ],
+      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
+      "rating3": 4.2,
+      "favorite_button3": "[heart icon]"
+    }
   },
   {
     "id": 5,
-    "chefPicture": "https://example.com/chef5.jpg",
+    "chefPicture": "https://media.istockphoto.com/id/1341912104/photo/portrait-of-a-successful-chef-at-a-restaurant-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=FR5coMfi0HWIXP9L9ykma423FsRxlRMS707bOOBtk7o=",
     "chefName": "Anthony Bourdain",
     "yearsOfExperience": 25,
     "numberOfRecipes": 150,
@@ -104,11 +222,51 @@
       "instagram": 1500000,
       "twitter": 850000
     },
-    "bio": "Anthony Bourdain was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2018."
+    "bio": "Anthony Bourdain was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2018.", 
+    "recipe_one": {
+      "recipe_name1": "Chicken Alfredo Pasta",
+      "ingredients1": [
+        "chicken breast",
+        "fettuccine pasta",
+        "heavy cream",
+        "Parmesan cheese",
+        "garlic"
+      ],
+      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
+      "rating1": 4.5,
+      "favorite_button1": "[heart icon]"
+    },
+    "recipe_two": {
+      "recipe_name2": "Grilled Salmon",
+      "ingredients2": [
+        "salmon fillets",
+        "olive oil",
+        "lemon juice",
+        "garlic",
+        "salt"
+      ],
+      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
+      "rating1": 4.8,
+      "favorite_button2": "[heart icon]"
+    },
+    "recipe_three": {
+      "recipe_name3": "Beef Stir Fry",
+      "ingredients3": [
+        "beef sirloin",
+        "broccoli",
+        "bell pepper",
+        "onion",
+        "soy sauce",
+        "garlic"
+      ],
+      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
+      "rating3": 4.2,
+      "favorite_button3": "[heart icon]"
+    }
   }, 
   {
     "id": 6,
-    "chefPicture": "https://example.com/chef6.jpg",
+    "chefPicture": "https://media.istockphoto.com/id/542824352/photo/mexican-restaurant-chef-in-mexico-city-mexico.jpg?s=612x612&w=0&k=20&c=nHFl1eCXwvHU5tNG-2c_TzzmK_CWT3MgFD-q6Q7k2AA=",
     "chefName": "Nigella Lawson",
     "yearsOfExperience": 20,
     "numberOfRecipes": 400,
@@ -117,9 +275,56 @@
       "instagram": 2200000,
       "twitter": 1900000
     },
-    "bio": "Nigella Lawson was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2020."
+    "bio": "Nigella Lawson was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2020.", 
+    "recipe_one": {
+      "recipe_name1": "Chicken Alfredo Pasta",
+      "ingredients1": [
+        "chicken breast",
+        "fettuccine pasta",
+        "heavy cream",
+        "Parmesan cheese",
+        "garlic"
+      ],
+      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
+      "rating1": 4.5,
+      "favorite_button1": "[heart icon]"
+    },
+    "recipe_two": {
+      "recipe_name2": "Grilled Salmon",
+      "ingredients2": [
+        "salmon fillets",
+        "olive oil",
+        "lemon juice",
+        "garlic",
+        "salt"
+      ],
+      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
+      "rating1": 4.8,
+      "favorite_button2": "[heart icon]"
+    },
+    "recipe_three": {
+      "recipe_name3": "Beef Stir Fry",
+      "ingredients3": [
+        "beef sirloin",
+        "broccoli",
+        "bell pepper",
+        "onion",
+        "soy sauce",
+        "garlic"
+      ],
+      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
+      "rating3": 4.2,
+      "favorite_button3": "[heart icon]"
+    }
   }
 ]
+
+
+
+
+
+
+
 
 
 
