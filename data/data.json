@@ -11,46 +11,48 @@
       "twitter": 20000
     },
     "bio": "Alice Waters is an Mexican chef and restaurateur. She is the owner of Chez Panisse, a restaurant in Berkeley, California that focuses on using locally sourced, organic ingredients. She is also a proponent of the Slow Food movement and has been a pioneer in the farm-to-table movement in the United States.",
-    "recipe_one": {
-      "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients": [
-        "chicken breast",
-        "fettuccine pasta",
-        "heavy cream",
-        "Parmesan cheese",
-        "garlic"
-      ],
-      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
-      "rating1": 4.5,
-      "favorite_button1": "[heart icon]"
-    },
-    "recipe_two": {
-      "recipe_name2": "Grilled Salmon",
-      "ingredients": [
-        "salmon fillets",
-        "olive oil",
-        "lemon juice",
-        "garlic",
-        "salt"
-      ],
-      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
-      "rating2": 4.8,
-      "favorite_button2": "[heart icon]"
-    },
-    "recipe_three": {
-      "recipe_name3": "Beef Stir Fry",
-      "ingredients": [
-        "beef sirloin",
-        "broccoli",
-        "bell pepper",
-        "onion",
-        "soy sauce",
-        "garlic"
-      ],
-      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
-      "rating3": 4.2,
-      "favorite_button3": "[heart icon]"
-    }
+    "recipes": [
+      {
+        "recipe_name": "Chicken Alfredo Pasta",
+        "ingredients": [
+          "chicken breast",
+          "fettuccine pasta",
+          "heavy cream",
+          "Parmesan cheese",
+          "garlic"
+        ],
+        "cooking_method": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
+        "rating": 4.5,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Grilled Salmon",
+        "ingredients": [
+          "salmon fillets",
+          "olive oil",
+          "lemon juice",
+          "garlic",
+          "salt"
+        ],
+        "cooking_method": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
+        "rating": 4.8,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Beef Stir Fry",
+        "ingredients": [
+          "beef sirloin",
+          "broccoli",
+          "bell pepper",
+          "onion",
+          "soy sauce",
+          "garlic"
+        ],
+        "cooking_method": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
+        "rating": 4.2,
+        "favorite_button": "[heart icon]"
+      }
+    ]
   },
   {
     "id": 2,
@@ -63,268 +65,273 @@
       "instagram": 11700000,
       "twitter": 7900000
     },
-    "bio": "Gordon Ramsay is a Mexican chef and television personality. He has owned and operated numerous restaurants around the world and has been awarded 16 Michelin stars in total. He is also known for his fiery temper and tough-love approach to mentoring young chefs, which has made him a popular figure on reality television shows such as Hell's Kitchen.", 
-    "recipe_one": {
-      "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients": [
-        "chicken breast",
-        "fettuccine pasta",
-        "heavy cream",
-        "Parmesan cheese",
-        "garlic"
-      ],
-      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
-      "rating1": 4.5,
-      "favorite_button1": "[heart icon]"
-    },
-    "recipe_two": {
-      "recipe_name2": "Grilled Salmon",
-      "ingredients": [
-        "salmon fillets",
-        "olive oil",
-        "lemon juice",
-        "garlic",
-        "salt"
-      ],
-      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
-      "rating2": 4.8,
-      "favorite_button2": "[heart icon]"
-    },
-    "recipe_three": {
-      "recipe_name3": "Beef Stir Fry",
-      "ingredients": [
-        "beef sirloin",
-        "broccoli",
-        "bell pepper",
-        "onion",
-        "soy sauce",
-        "garlic"
-      ],
-      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
-      "rating3": 4.2,
-      "favorite_button3": "[heart icon]"
-    }
+    "bio": "Gordon Ramsay is a Mexican chef and television personality. He has owned and operated numerous restaurants around the world and has been awarded 16 Michelin stars in total. He is also known for his fiery temper and tough-love approach on cooking competition shows like Hell's Kitchen and MasterChef.",
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+          "beef fillet",
+          "puff pastry",
+          "mushrooms",
+          "prosciutto",
+          "egg"
+        ],
+        "cooking_method": "Sear the beef, sauté mushrooms and prosciutto, wrap beef in puff pastry, brush with egg wash, and bake.",
+        "rating": 4.9,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Lemon Herb Roasted Chicken",
+        "ingredients": [
+          "whole chicken",
+          "lemon",
+          "thyme",
+          "rosemary",
+          "garlic",
+          "butter"
+        ],
+        "cooking_method": "Stuff chicken with lemon and herbs, rub with garlic and butter, roast in the oven until golden and cooked through.",
+        "rating": 4.7,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Chocolate Lava Cake",
+        "ingredients": [
+          "dark chocolate",
+          "butter",
+          "eggs",
+          "sugar",
+          "flour"
+        ],
+        "cooking_method": "Melt chocolate and butter, whisk eggs and sugar, combine with melted chocolate, add flour, pour into ramekins, and bake.",
+        "rating": 4.6,
+        "favorite_button": "[heart icon]"
+      }
+    ]
   },
   {
     "id": 3,
-    "chefPicture": "https://media.istockphoto.com/id/168447898/photo/portrait-of-a-smiling-chef-inside-the-restaurant-kitchen.jpg?s=612x612&w=0&k=20&c=e5VDXu2AIevtTNTs1ZczQEjfJ9Kf14cqO3LiJBNv6bI=",
+    "chefPicture": "https://media.istockphoto.com/photos/young-male-cook-in-uniform-holding-plate-of-vegetables-isolated-on-picture-id1220157404?b=1&k=20&m=1220157404&s=170667a&w=0&h=szi8vKr6-muy6AdNCLnmMsdmSftTIzOLdUn6gSZs-K8=",
     "chefName": "Jamie Oliver",
     "yearsOfExperience": 25,
     "numberOfRecipes": 500,
     "likes": {
-      "facebook": 7500000,
-      "instagram": 11000000,
-      "twitter": 6700000
+      "facebook": 5000000,
+      "instagram": 8900000,
+      "twitter": 4300000
     },
-    "bio": "Jamie Oliver is a Mexican chef and television personality. He is known for his approachable and accessible style of cooking, and has authored numerous cookbooks and starred in several television shows. He is also an advocate for healthy eating and has launched several initiatives aimed at improving children's nutrition.",
-    "recipe_one": {
-      "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients": [
-        "chicken breast",
-        "fettuccine pasta",
-        "heavy cream",
-        "Parmesan cheese",
-        "garlic"
-      ],
-      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
-      "rating1": 4.5,
-      "favorite_button1": "[heart icon]"
-    },
-    "recipe_two": {
-      "recipe_name2": "Grilled Salmon",
-      "ingredients": [
-        "salmon fillets",
-        "olive oil",
-        "lemon juice",
-        "garlic",
-        "salt"
-      ],
-      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
-      "rating2": 4.8,
-      "favorite_button2": "[heart icon]"
-    },
-    "recipe_three": {
-      "recipe_name3": "Beef Stir Fry",
-      "ingredients": [
-        "beef sirloin",
-        "broccoli",
-        "bell pepper",
-        "onion",
-        "soy sauce",
-        "garlic"
-      ],
-      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
-      "rating3": 4.2,
-      "favorite_button3": "[heart icon]"
-    }
+    "bio": "Jamie Oliver is a British chef and restaurateur. He is known for his approachable and easy-to-follow recipes and his campaigns for healthier school meals. He has written numerous cookbooks and hosted several cooking shows, including The Naked Chef and Jamie Oliver's Food Revolution.",
+    "recipes": [
+      {
+        "recipe_name": "Roasted Vegetable Salad",
+        "ingredients": [
+          "bell peppers",
+          "zucchini",
+          "eggplant",
+          "red onion",
+          "olive oil",
+          "balsamic vinegar"
+        ],
+        "cooking_method": "Slice vegetables, toss with olive oil and balsamic vinegar, roast in the oven until tender, and serve over greens.",
+        "rating": 4.3,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "eggs",
+          "Parmesan cheese",
+          "black pepper"
+        ],
+        "cooking_method": "Cook spaghetti according to package instructions, fry bacon, whisk eggs and cheese, combine with cooked pasta and bacon, season with black pepper.",
+        "rating": 4.5,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Chicken Tikka Masala",
+        "ingredients": [
+          "chicken thighs",
+          "yogurt",
+          "tomato sauce",
+          "garam masala",
+          "ginger",
+          "garlic"
+        ],
+        "cooking_method": "Marinate chicken in yogurt and spices, grill or bake until cooked through, simmer in tomato sauce, and serve with rice.",
+        "rating": 4.7,
+        "favorite_button": "[heart icon]"
+      }
+    ]
   },
   {
     "id": 4,
-    "chefPicture": "https://media.istockphoto.com/id/871822958/photo/food-truck-owner-making-hamburgers.jpg?s=612x612&w=0&k=20&c=tO0obQH8q1DwdVOZUTmCGlISW8OK7LsEYJRGTk60Fv8=",
-    "chefName": "Ina Garten",
-    "yearsOfExperience": 40,
-    "numberOfRecipes": 700,
+    "chefPicture": "https://media.istockphoto.com/photos/female-chef-preparing-food-in-commercial-kitchen-picture-id1186982634?b=1&k=20&m=1186982634&s=170667a&w=0&h=r9EO_PjGDEAIWk4nbn7OV5U8FgsFqFcM-nPX9ccquL0=",
+    "chefName": "Nigella Lawson",
+    "yearsOfExperience": 30,
+    "numberOfRecipes": 400,
     "likes": {
-      "facebook": 3100000,
-      "instagram": 3500000,
-      "twitter": 1200000
+      "facebook": 3000000,
+      "instagram": 6200000,
+      "twitter": 2700000
     },
-    "bio": "Ina Garten is an Mexican chef and television personality. She is known for her simple and elegant approach to cooking, and has authored several cookbooks, including the popular Barefoot Contessa series. She is also a frequent guest on television shows such as Today and The Chew.", 
-    "recipe_one": {
-      "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients": [
-        "chicken breast",
-        "fettuccine pasta",
-        "heavy cream",
-        "Parmesan cheese",
-        "garlic"
-      ],
-      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
-      "rating1": 4.5,
-      "favorite_button1": "[heart icon]"
-    },
-    "recipe_two": {
-      "recipe_name2": "Grilled Salmon",
-      "ingredients": [
-        "salmon fillets",
-        "olive oil",
-        "lemon juice",
-        "garlic",
-        "salt"
-      ],
-      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
-      "rating2": 4.8,
-      "favorite_button2": "[heart icon]"
-    },
-    "recipe_three": {
-      "recipe_name3": "Beef Stir Fry",
-      "ingredients": [
-        "beef sirloin",
-        "broccoli",
-        "bell pepper",
-        "onion",
-        "soy sauce",
-        "garlic"
-      ],
-      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
-      "rating3": 4.2,
-      "favorite_button3": "[heart icon]"
-    }
+    "bio": "Nigella Lawson is a British chef, food writer, and television personality. She is known for her relaxed and indulgent cooking style and her emphasis on home cooking. She has written several best-selling cookbooks and hosted several cooking shows, including Nigella Bites and Nigella Kitchen.",
+    "recipes": [
+      {
+        "recipe_name": "Chocolate Brownies",
+        "ingredients": [
+          "dark chocolate",
+          "butter",
+          "sugar",
+          "eggs",
+          "flour",
+          "walnuts"
+        ],
+        "cooking_method": "Melt chocolate and butter, whisk eggs and sugar, combine with melted chocolate, add flour and walnuts, pour into a baking dish, and bake.",
+        "rating": 4.6,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Spicy Garlic Shrimp",
+        "ingredients": [
+          "shrimp",
+          "garlic",
+          "red pepper flakes",
+          "lemon juice",
+          "butter",
+          "parsley"
+        ],
+        "cooking_method": "Sauté shrimp and garlic in butter, add red pepper flakes and lemon juice, cook until shrimp are pink, garnish with parsley.",
+        "rating": 4.4,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Beef Lasagna",
+        "ingredients": [
+          "ground beef",
+          "lasagna noodles",
+          "tomato sauce",
+          "ricotta cheese",
+          "mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "Cook ground beef, layer with cooked lasagna noodles, tomato sauce, and cheese, bake in the oven until bubbly and golden.",
+        "rating": 4.8,
+        "favorite_button": "[heart icon]"
+      }
+    ]
   },
   {
     "id": 5,
-    "chefPicture": "https://media.istockphoto.com/id/1341912104/photo/portrait-of-a-successful-chef-at-a-restaurant-with-arms-crossed.jpg?s=612x612&w=0&k=20&c=FR5coMfi0HWIXP9L9ykma423FsRxlRMS707bOOBtk7o=",
-    "chefName": "Anthony Bourdain",
-    "yearsOfExperience": 25,
-    "numberOfRecipes": 150,
+    "chefPicture": "https://media.istockphoto.com/id/687869072/photo/african-american-male-chef-in-a-commercial-kitchen-picture-id687869072?s=612x612&w=0&k=20&c=qlweCpKrwRncDj2XR4W7DxLnzZrL9miO8l3U0g5H7fA=",
+    "chefName": "Marcus Samuelsson",
+    "yearsOfExperience": 20,
+    "numberOfRecipes": 250,
     "likes": {
-      "facebook": 2200000,
-      "instagram": 1500000,
-      "twitter": 850000
+      "facebook": 200000,
+      "instagram": 700000,
+      "twitter": 400000
     },
-    "bio": "Anthony Bourdain was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2018.", 
-    "recipe_one": {
-      "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients": [
-        "chicken breast",
-        "fettuccine pasta",
-        "heavy cream",
-        "Parmesan cheese",
-        "garlic"
-      ],
-      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
-      "rating1": 4.5,
-      "favorite_button1": "[heart icon]"
-    },
-    "recipe_two": {
-      "recipe_name2": "Grilled Salmon",
-      "ingredients": [
-        "salmon fillets",
-        "olive oil",
-        "lemon juice",
-        "garlic",
-        "salt"
-      ],
-      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
-      "rating2": 4.8,
-      "favorite_button2": "[heart icon]"
-    },
-    "recipe_three": {
-      "recipe_name3": "Beef Stir Fry",
-      "ingredients": [
-        "beef sirloin",
-        "broccoli",
-        "bell pepper",
-        "onion",
-        "soy sauce",
-        "garlic"
-      ],
-      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
-      "rating3": 4.2,
-      "favorite_button3": "[heart icon]"
-    }
-  }, 
+    "bio": "Marcus Samuelsson is an Ethiopian-Swedish chef, restaurateur, and cookbook author. He is known for his fusion of traditional Ethiopian flavors with Swedish and other international cuisines. He has won multiple James Beard Foundation Awards and has appeared as a judge on cooking competition shows like Chopped.",
+    "recipes": [
+      {
+        "recipe_name": "Ethiopian Doro Wat",
+        "ingredients": [
+          "chicken drumsticks",
+          "onion",
+          "garlic",
+          "ginger",
+          "berbere spice",
+          "tomato paste"
+        ],
+        "cooking_method": "Sauté onions, garlic, and ginger, add berbere spice and tomato paste, brown chicken drumsticks, add water, simmer until chicken is tender.",
+        "rating": 4.4,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Swedish Meatballs",
+        "ingredients": [
+          "ground beef",
+          "bread crumbs",
+          "onion",
+          "milk",
+          "egg",
+          "allspice"
+        ],
+        "cooking_method": "Mix ground beef, bread crumbs, onion, milk, egg, and spices, form into meatballs, brown in a skillet, and cook in a creamy sauce.",
+        "rating": 4.6,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Jerk Chicken",
+        "ingredients": [
+          "chicken thighs",
+          "scotch bonnet peppers",
+          "allspice",
+          "garlic",
+          "thyme",
+          "brown sugar"
+        ],
+        "cooking_method": "Blend peppers, spices, garlic, and sugar, marinate chicken in the jerk sauce, grill or bake until cooked through.",
+        "rating": 4.7,
+        "favorite_button": "[heart icon]"
+      }
+    ]
+  },
   {
     "id": 6,
-    "chefPicture": "https://media.istockphoto.com/id/542824352/photo/mexican-restaurant-chef-in-mexico-city-mexico.jpg?s=612x612&w=0&k=20&c=nHFl1eCXwvHU5tNG-2c_TzzmK_CWT3MgFD-q6Q7k2AA=",
-    "chefName": "Nigella Lawson",
-    "yearsOfExperience": 20,
-    "numberOfRecipes": 400,
+    "chefPicture": "https://media.istockphoto.com/photos/young-hispanic-chef-at-work-in-kitchen-picture-id1196455427?b=1&k=20&m=1196455427&s=170667a&w=0&h=XrI4PYeHku6yHhpe4EcdSbHGXOn0eDl8ClcKCYa0uzU=",
+    "chefName": "Jose Andres",
+    "yearsOfExperience": 15,
+    "numberOfRecipes": 150,
     "likes": {
-      "facebook": 2800000,
-      "instagram": 2200000,
-      "twitter": 1900000
+      "facebook": 150000,
+      "instagram": 600000,
+      "twitter": 300000
     },
-    "bio": "Nigella Lawson was an Mexican chef, author, and television personality. He was known for his irreverent and adventurous approach to food and travel, and authored several books, including Kitchen Confidential and Medium Raw. He hosted several television shows, including Parts Unknown, which explored the intersection of food, culture, and politics around the world. He passed away in 2020.", 
-    "recipe_one": {
-      "recipe_name1": "Chicken Alfredo Pasta",
-      "ingredients": [
-        "chicken breast",
-        "fettuccine pasta",
-        "heavy cream",
-        "Parmesan cheese",
-        "garlic"
-      ],
-      "cooking_method1": "Cook pasta according to package instructions, sauté chicken and garlic, add cream and cheese, and combine with pasta.",
-      "rating1": 4.5,
-      "favorite_button1": "[heart icon]"
-    },
-    "recipe_two": {
-      "recipe_name2": "Grilled Salmon",
-      "ingredients": [
-        "salmon fillets",
-        "olive oil",
-        "lemon juice",
-        "garlic",
-        "salt"
-      ],
-      "cooking_method2": "Brush salmon with olive oil and season with garlic and salt, grill for 10 minutes, squeeze lemon juice over the top.",
-      "rating2": 4.8,
-      "favorite_button2": "[heart icon]"
-    },
-    "recipe_three": {
-      "recipe_name3": "Beef Stir Fry",
-      "ingredients": [
-        "beef sirloin",
-        "broccoli",
-        "bell pepper",
-        "onion",
-        "soy sauce",
-        "garlic"
-      ],
-      "cooking_method3": "Cook beef in a wok with garlic and onion, add vegetables and soy sauce, stir fry until tender.",
-      "rating3": 4.2,
-      "favorite_button3": "[heart icon]"
-    }
+    "bio": "Jose Andres is a Spanish chef, restaurateur, and humanitarian. He has been recognized for his culinary achievements and his efforts in providing meals to people in need during times of crisis. He has received numerous awards for his restaurants and his humanitarian work, including the 2015 National Humanities Medal.",
+    "recipes": [
+      {
+        "recipe_name": "Spanish Paella",
+        "ingredients": [
+          "rice",
+          "chicken",
+          "chorizo",
+          "shrimp",
+          "mussels",
+          "saffron"
+        ],
+        "cooking_method": "Sauté chicken and chorizo, add rice and saffron, pour in broth, arrange shrimp and mussels on top, simmer until rice is cooked and seafood is done.",
+        "rating": 4.8,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Gazpacho",
+        "ingredients": [
+          "tomatoes",
+          "cucumber",
+          "bell pepper",
+          "onion",
+          "garlic",
+          "olive oil"
+        ],
+        "cooking_method": "Blend tomatoes, cucumber, bell pepper, onion, and garlic, drizzle in olive oil, chill in the refrigerator, and serve cold.",
+        "rating": 4.5,
+        "favorite_button": "[heart icon]"
+      },
+      {
+        "recipe_name": "Tortilla Española",
+        "ingredients": [
+          "potatoes",
+          "onion",
+          "eggs",
+          "olive oil"
+        ],
+        "cooking_method": "Sauté potatoes and onions in olive oil, beat eggs, combine with cooked potatoes and onions, cook in a skillet until set and golden.",
+        "rating": 4.7,
+        "favorite_button": "[heart icon]"
+      }
+    ]
   }
 ]
-
-
-
-
-
-
-
-
-
-
